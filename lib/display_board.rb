@@ -3,13 +3,13 @@
 def display_board
   put "   |   |   "
   
-  print "-----------\n"
+  put "-----------"
   
   put "   |   |   "
   
-  print "-----------\n"
+  put "-----------"
   
-  print "   |   |   \n"
+  put "   |   |   "
  
    
 end
